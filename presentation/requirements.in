@@ -1,0 +1,6 @@
+boto3
+botocore
+bs4
+requests
+lxml
+python-xbrl
